@@ -108,6 +108,7 @@
 
 ## :camera: Profile
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterTooh&theme=radical" />
  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/hbendjab" alt="hbendjab's 42 stats" /></a>
 </div>
 
