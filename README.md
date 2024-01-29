@@ -1,4 +1,4 @@
-<h1 align="center">Hussain Awadh<h1/>
+<h1 align="center">Haithem Bendjaballah<h1/>
 
 ##  About Me:
 - A Student pursuing a Diploma in Software Development at 42 Abu Dhabi.
