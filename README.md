@@ -48,8 +48,3 @@
 </div>
 
 ###
-###
-
-<img src="https://raw.githubusercontent.com/haithem0707/haithem0707/output/snake.svg" alt="Snake animation" />
-
-###
